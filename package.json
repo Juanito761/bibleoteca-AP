@@ -6,7 +6,7 @@
   "devDependencies": {
 "nodemon": "^3.1.9"
   },
-  "name": "bibleotecaaa-api",
+  "name": "bibleoteca-api",
   "version": "1.0.0",
   "main": "api/index.js",
   "scripts": {
