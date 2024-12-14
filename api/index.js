@@ -14,7 +14,7 @@ app.use(express.json());
 app.get('/', (req, res) => {
   res.send(`
     <h1>Bienvenido a mi biblioteca, manito!</h1>
-    <p>Explora la colección de animes famosos:</p>
+    <p>Explora la colección de libros de mangas famosos:</p>
     <ul>
     <li><strong>/api/autores</strong>: Lista todos los autores de los libros.</li>
     <li><strong>/api/libros/disponibles</strong>: Lista todos los libros disponibles.</li>
