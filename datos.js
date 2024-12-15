@@ -19,7 +19,7 @@ const datos = {
       anioPublicacion: 2009,
       disponible: true,
       sinopsis: "La humanidad lucha por sobrevivir detrás de muros gigantes para protegerse de los titanes.",
-      imagen: "https://example.com/attack-on-titan.jpg"
+      imagen: "https://drive.google.com/file/d/15DxxViWRd8JqucSGb2-CoPmOzFbOvcC1/view?usp=drive_link"
     },
     {
       titulo: "Dragon Ball",
