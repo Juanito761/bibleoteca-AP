@@ -19,7 +19,7 @@ const datos = {
       anioPublicacion: 2009,
       disponible: true,
       sinopsis: "La humanidad lucha por sobrevivir detrás de muros gigantes para protegerse de los titanes.",
-      imagen: "https://drive.google.com/file/d/15DxxViWRd8JqucSGb2-CoPmOzFbOvcC1/view?usp=drive_link"
+      imagen: "https://drive.google.com/file/d/1txyOSyBICxvt8X1boPsUNNLPjnqqsOeH/view?usp=sharing"
     },
     {
       titulo: "Dragon Ball",
@@ -27,7 +27,7 @@ const datos = {
       anioPublicacion: 1984,
       disponible: true,
       sinopsis: "La historia de Goku, un guerrero Saiyajin en busca de aventuras y las Esferas del Dragón.",
-      imagen: "https://example.com/dragon-ball.jpg"
+      imagen: "https://drive.google.com/file/d/1D_-jZERKeRvrZ0Hb5nRGhOLFEybNogda/view?usp=sharing"
     },
     {
       titulo: "One Piece",
@@ -35,7 +35,7 @@ const datos = {
       anioPublicacion: 1997,
       disponible: true,
       sinopsis: "Un joven pirata llamado Luffy busca el legendario tesoro de One Piece.",
-      imagen: "https://example.com/one-piece.jpg"
+      imagen: "https://drive.google.com/file/d/1300nI9E2WnTLvjnglLLmCDFrihmzTKsj/view?usp=sharing"
     },
     {
       titulo: "Death Note",
@@ -43,7 +43,7 @@ const datos = {
       anioPublicacion: 2003,
       disponible: true,
       sinopsis: "Un estudiante encuentra un cuaderno con el poder de matar a cualquier persona escribiendo su nombre.",
-      imagen: "https://example.com/death-note.jpg"
+      imagen: "https://drive.google.com/file/d/1khpra58yjOB30r6Py4HoKyGTovxfHiK_/view?usp=sharing"
     },
     {
       titulo: "Parasyte",
@@ -51,7 +51,7 @@ const datos = {
       anioPublicacion: 1988,
       disponible: false,
       sinopsis: "Un parásito extraterrestre se fusiona con un estudiante, lo que lleva a una lucha por la supervivencia.",
-      imagen: "https://example.com/parasyte.jpg"
+      imagen: "https://drive.google.com/file/d/1wGXNZhdqx-w6aOMqjmdQDOnDuYSoB2Ov/view?usp=sharing"
     },
     {
       titulo: "Hunter x Hunter",
@@ -59,7 +59,7 @@ const datos = {
       anioPublicacion: 1998,
       disponible: false,
       sinopsis: "Un joven llamado Gon busca convertirse en un cazador y encontrar a su padre desaparecido.",
-      imagen: "https://example.com/hunter-x-hunter.jpg"
+      imagen: "https://drive.google.com/file/d/1r2nsJHKTeglA1SBZzSavvP_q2_8-N8JU/view?usp=sharing"
     }
   ]
 };
