@@ -35,7 +35,7 @@ const datos = {
       anioPublicacion: 1997,
       disponible: true,
       sinopsis: "Un joven pirata llamado Luffy busca el legendario tesoro de One Piece.",
-      imagen: "https://i.postimg.cc/8C5qGnnz/one-piece.jpg"
+      imagen: "https://i.postimg.cc/KzTpvX7x/one-piece.jpg"
     },
     {
       titulo: "Death Note",
