@@ -27,7 +27,7 @@ const datos = {
       anioPublicacion: 1984,
       disponible: true,
       sinopsis: "La historia de Goku, un guerrero Saiyajin en busca de aventuras y las Esferas del Dragón.",
-      imagen: "https://drive.google.com/file/d/1D_-jZERKeRvrZ0Hb5nRGhOLFEybNogda/view?usp=sharing"
+      imagen: "https://i.postimg.cc/8sQyrZHM/dragon-ball.jpg"
     },
     {
       titulo: "One Piece",
