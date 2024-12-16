@@ -19,7 +19,7 @@ const datos = {
       anioPublicacion: 2009,
       disponible: true,
       sinopsis: "La humanidad lucha por sobrevivir detrás de muros gigantes para protegerse de los titanes.",
-      imagen: "https://i.postimg.cc/4dyFC7y7/attack-of-titan.jpg"
+      imagen: "https://i.postimg.cc/C14D4mSb/ata.jpg"
     },
     {
       titulo: "Dragon Ball",
@@ -27,7 +27,7 @@ const datos = {
       anioPublicacion: 1984,
       disponible: true,
       sinopsis: "La historia de Goku, un guerrero Saiyajin en busca de aventuras y las Esferas del Dragón.",
-      imagen: "https://i.postimg.cc/8sQyrZHM/dragon-ball.jpg"
+      imagen: "https://i.postimg.cc/65pVMJ7q/dragon-ball12.jpg"
     },
     {
       titulo: "One Piece",
@@ -43,7 +43,7 @@ const datos = {
       anioPublicacion: 2003,
       disponible: true,
       sinopsis: "Un estudiante encuentra un cuaderno con el poder de matar a cualquier persona escribiendo su nombre.",
-      imagen: "https://i.postimg.cc/7Y1vnz2w/death-note.jpg"
+      imagen: "https://i.postimg.cc/L80xt4Nm/death-note.jpg"
     },
     {
       titulo: "Parasyte",
@@ -51,7 +51,7 @@ const datos = {
       anioPublicacion: 1988,
       disponible: false,
       sinopsis: "Un parásito extraterrestre se fusiona con un estudiante, lo que lleva a una lucha por la supervivencia.",
-      imagen: "https://i.postimg.cc/zfc4GS9S/parasyte.jpg"
+      imagen: "https://i.postimg.cc/0yrfyRxF/parasito.webp"
     },
     {
       titulo: "Hunter x Hunter",
@@ -59,7 +59,7 @@ const datos = {
       anioPublicacion: 1998,
       disponible: false,
       sinopsis: "Un joven llamado Gon busca convertirse en un cazador y encontrar a su padre desaparecido.",
-      imagen: "https://i.postimg.cc/0QKFMKvg/hunter-X-hunter.jpg"
+      imagen: "https://i.postimg.cc/KvfqYDTk/hunter-X-hunter.jpg"
     }
   ]
 };
