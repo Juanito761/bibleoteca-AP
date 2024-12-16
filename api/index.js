@@ -1,4 +1,4 @@
-
+const cors = require('cors');
 const express = require('express');
 const { biblioteca } = require('../datos');
 const {Autor}=require('../model/autores')
@@ -10,7 +10,7 @@ const librosRuta=require("../routes/libros")
 const port = 3000;
 
 app.use(express.json());
-
+app.use(cors());
 app.get('/', (req, res) => {
   res.send(`
     <h1>Bienvenido a mi biblioteca, manito!</h1>
