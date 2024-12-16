@@ -35,7 +35,7 @@ const datos = {
       anioPublicacion: 1997,
       disponible: true,
       sinopsis: "Un joven pirata llamado Luffy busca el legendario tesoro de One Piece.",
-      imagen: "https://drive.google.com/file/d/1300nI9E2WnTLvjnglLLmCDFrihmzTKsj/view?usp=sharing"
+      imagen: "https://i.postimg.cc/8C5qGnnz/one-piece.jpg"
     },
     {
       titulo: "Death Note",
@@ -43,7 +43,7 @@ const datos = {
       anioPublicacion: 2003,
       disponible: true,
       sinopsis: "Un estudiante encuentra un cuaderno con el poder de matar a cualquier persona escribiendo su nombre.",
-      imagen: "https://drive.google.com/file/d/1khpra58yjOB30r6Py4HoKyGTovxfHiK_/view?usp=sharing"
+      imagen: "https://i.postimg.cc/7Y1vnz2w/death-note.jpg"
     },
     {
       titulo: "Parasyte",
@@ -51,7 +51,7 @@ const datos = {
       anioPublicacion: 1988,
       disponible: false,
       sinopsis: "Un parásito extraterrestre se fusiona con un estudiante, lo que lleva a una lucha por la supervivencia.",
-      imagen: "https://drive.google.com/file/d/1wGXNZhdqx-w6aOMqjmdQDOnDuYSoB2Ov/view?usp=sharing"
+      imagen: "https://i.postimg.cc/zfc4GS9S/parasyte.jpg"
     },
     {
       titulo: "Hunter x Hunter",
@@ -59,7 +59,7 @@ const datos = {
       anioPublicacion: 1998,
       disponible: false,
       sinopsis: "Un joven llamado Gon busca convertirse en un cazador y encontrar a su padre desaparecido.",
-      imagen: "https://drive.google.com/file/d/1r2nsJHKTeglA1SBZzSavvP_q2_8-N8JU/view?usp=sharing"
+      imagen: "https://i.postimg.cc/0QKFMKvg/hunter-X-hunter.jpg"
     }
   ]
 };
