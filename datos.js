@@ -10,7 +10,8 @@ const datos = {
     { nombre: "Eiichiro Oda", nacionalidad: "Japonesa" },
     { nombre: "Tsugumi Ohba", nacionalidad: "Japonesa" },
     { nombre: "Hitoshi Iwaaki", nacionalidad: "Japonesa" },
-    { nombre: "Yoshihiro Togashi", nacionalidad: "Japonesa" }
+    { nombre: "Yoshihiro Togashi", nacionalidad: "Japonesa" },
+    { nombre: "Hiromu Arakawa", nacionalidad: "Japonesa" }
   ],
   libros: [
     {
@@ -52,6 +53,14 @@ const datos = {
       disponible: false,
       sinopsis: "Un parásito extraterrestre se fusiona con un estudiante, lo que lleva a una lucha por la supervivencia.",
       imagen: "https://i.postimg.cc/0yrfyRxF/parasito.webp"
+    },
+    {
+      titulo: "Fullmetal Alchemist",
+      autor: "Hiromu Arakawa",
+      anioPublicacion: 2001,
+      disponible: false,
+      sinopsis: "los hermanos Edward y Alphonse Elric, quienes buscan la Piedra Filosofal para recuperar sus cuerpos tras un experimento de alquimia fallido.",
+      imagen: "https://i.postimg.cc/rwF8djYv/maxresdefault.jpg"
     },
     {
       titulo: "Hunter x Hunter",
