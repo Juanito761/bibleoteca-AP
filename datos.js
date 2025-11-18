@@ -20,7 +20,7 @@ const datos = {
       anioPublicacion: 2009,
       disponible: true,
       sinopsis: "La humanidad lucha por sobrevivir detrás de muros gigantes para protegerse de los titanes.",
-      imagen: "https://i.postimg.cc/C14D4mSb/ata.jpg"
+      imagen: "https://i.postimg.cc/qRB47LvL/ata.jpg"
     },
     {
       titulo: "Dragon Ball",
@@ -28,7 +28,7 @@ const datos = {
       anioPublicacion: 1984,
       disponible: true,
       sinopsis: "La historia de Goku, un guerrero Saiyajin en busca de aventuras y las Esferas del Dragón.",
-      imagen: "https://i.postimg.cc/65pVMJ7q/dragon-ball12.jpg"
+      imagen: "https://i.postimg.cc/YSZZ5zLJ/db.jpg"
     },
     {
       titulo: "One Piece",
@@ -36,7 +36,7 @@ const datos = {
       anioPublicacion: 1997,
       disponible: true,
       sinopsis: "Un joven pirata llamado Luffy busca el legendario tesoro de One Piece.",
-      imagen: "https://i.postimg.cc/KzTpvX7x/one-piece.jpg"
+      imagen: "https://i.postimg.cc/cJg5Btkh/op.jpg"
     },
     {
       titulo: "Death Note",
@@ -44,7 +44,7 @@ const datos = {
       anioPublicacion: 2003,
       disponible: true,
       sinopsis: "Un estudiante encuentra un cuaderno con el poder de matar a cualquier persona escribiendo su nombre.",
-      imagen: "https://i.postimg.cc/L80xt4Nm/death-note.jpg"
+      imagen: "https://i.postimg.cc/s2hwhdvj/dn.jpg"
     },
     {
       titulo: "Parasyte",
@@ -52,7 +52,7 @@ const datos = {
       anioPublicacion: 1988,
       disponible: false,
       sinopsis: "Un parásito extraterrestre se fusiona con un estudiante, lo que lleva a una lucha por la supervivencia.",
-      imagen: "https://i.postimg.cc/0yrfyRxF/parasito.webp"
+      imagen: "https://i.postimg.cc/CLx74fz6/ps.jpg"
     },
     {
       titulo: "Fullmetal Alchemist",
@@ -60,7 +60,7 @@ const datos = {
       anioPublicacion: 2001,
       disponible: false,
       sinopsis: "los hermanos Edward y Alphonse Elric, quienes buscan la Piedra Filosofal para recuperar sus cuerpos tras un experimento de alquimia fallido.",
-      imagen: "https://i.postimg.cc/rwF8djYv/maxresdefault.jpg"
+      imagen: "https://i.postimg.cc/9QqGxPVw/fa.jpg"
     },
     {
       titulo: "Hunter x Hunter",
@@ -68,7 +68,7 @@ const datos = {
       anioPublicacion: 1998,
       disponible: false,
       sinopsis: "Un joven llamado Gon busca convertirse en un cazador y encontrar a su padre desaparecido.",
-      imagen: "https://i.postimg.cc/KvfqYDTk/hunter-X-hunter.jpg"
+      imagen: "https://i.postimg.cc/6Qf4SYPC/hxh.jpg"
     }
   ]
 };
